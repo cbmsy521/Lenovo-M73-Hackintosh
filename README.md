@@ -2,6 +2,8 @@
 
 ***
 
+![](Resources/image_Bx1hslD63Z.png)
+
 记录一下这次升级Ventura13.0的注意事项，及现在使用的EFI
 
 | Component | Model                                                                                   |
@@ -15,3 +17,4 @@
 2.然后重置NVRAM，等待读条开机，此时开机后，显存为5M
 
 3.[https://github.com/dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher "https://github.com/dortania/OpenCore-Legacy-Patcher"),之后去下载补丁，点击post install root patch，等待重启
+
